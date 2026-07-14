@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Fernandohb55/Fernandohb55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Olá! Eu sou o Fernando 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+💻 Biólogo/Bioinformata e mestre em Biotecnologia e Biociências. Estudante de Engenharia de Software, focado em aprender novas tecnologias e resolver problemas reais através do código.
+
+Atualmente estou aprimorando meus conhecimentos em **Python, Análise de Dados, JavaScript, HTML, CSS, VSCODE, Git e GitHub** por meio de projetos práticos e cursos.
+
+Meu objetivo é contribuir para o desenvolvimento de soluções de qualidade, aplicando meus conhecimentos e evoluindo constantemente como desenvolvedor.
+
+---
+
+### 🚀 Tecnologias
+
+* SQL
+* 🐍 Python
+* 🌐 JavaScript
+* 🗂️ HTML5 / CSS3
 -->
